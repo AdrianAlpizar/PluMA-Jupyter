@@ -1,0 +1,5 @@
+cdsapi==0.5.1
+docopt==0.6.2
+pip-tools==6.6.2
+pipdeptree==2.2.1
+yarg==0.1.9
