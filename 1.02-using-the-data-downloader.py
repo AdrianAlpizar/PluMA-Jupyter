@@ -1,6 +1,6 @@
 import sys
 sys.path.append('../')
-from ml_flood.python.misc.data_download import CDS_Dataset
+from misc.data_download import CDS_Dataset
 
 # define name of dataset to request
 ds = CDS_Dataset(dataset_name='reanalysis-era5-pressure-levels',
